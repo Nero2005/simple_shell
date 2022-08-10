@@ -3,5 +3,5 @@
 
 ## Colaborator
 
-[Oghenero Ologe](https://github.com/Nero2005)
-[Taiwo Abdulsalam](https://github.com/Sofiyyah1)
+* [Oghenero Ologe](https://github.com/Nero2005)
+* [Taiwo Abdulsalam](https://github.com/Sofiyyah1)
